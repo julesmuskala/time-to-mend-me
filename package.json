@@ -1,5 +1,6 @@
 {
-  "name": "improve-me",
+  "homepage": "https://www.juliusz.muskala.pl/time-to-mend-me/",
+  "name": "time-to-mend-me",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
