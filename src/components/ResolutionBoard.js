@@ -24,7 +24,7 @@ const ResolutionBoard = () => {
   }
 
   const handleAdd = () => {
-    history.push('/new-resolution')
+    history.push('/time-to-mend-me/new-resolution')
   }
 
   return (

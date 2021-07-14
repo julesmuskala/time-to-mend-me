@@ -39,7 +39,7 @@ const CreateBoard = () => {
   const handleSubmit = event => {
     event.preventDefault()
     console.log({name, icon})
-    history.push('/')
+    history.push('/time-to-mend-me')
     dispatch(createNewResolution({
       imageID: icon,
       title: name,
