@@ -1,13 +1,8 @@
 {
   "files": {
     "main.css": "/time-to-mend-me/static/css/main.00e7110f.chunk.css",
-<<<<<<< HEAD
     "main.js": "/time-to-mend-me/static/js/main.59bcea1d.chunk.js",
     "main.js.map": "/time-to-mend-me/static/js/main.59bcea1d.chunk.js.map",
-=======
-    "main.js": "/time-to-mend-me/static/js/main.b557e446.chunk.js",
-    "main.js.map": "/time-to-mend-me/static/js/main.b557e446.chunk.js.map",
->>>>>>> cb0442b04f8085d44c4161cfa4897030a1be2c46
     "runtime-main.js": "/time-to-mend-me/static/js/runtime-main.b99608fc.js",
     "runtime-main.js.map": "/time-to-mend-me/static/js/runtime-main.b99608fc.js.map",
     "static/css/2.bc922b9c.chunk.css": "/time-to-mend-me/static/css/2.bc922b9c.chunk.css",
@@ -37,10 +32,6 @@
     "static/css/2.bc922b9c.chunk.css",
     "static/js/2.2b13f4e0.chunk.js",
     "static/css/main.00e7110f.chunk.css",
-<<<<<<< HEAD
     "static/js/main.59bcea1d.chunk.js"
-=======
-    "static/js/main.b557e446.chunk.js"
->>>>>>> cb0442b04f8085d44c4161cfa4897030a1be2c46
   ]
 }
