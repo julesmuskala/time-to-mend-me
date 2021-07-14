@@ -17,19 +17,19 @@ const App = () => {
   return (
     <Router>
       <header className="app-header">
-        <Link to="/">
+        <Link to="/time-to-mend-me">
           <img src={logo} alt="Home" />
         </Link>
-        <Link to="/about">About</Link>
+        <Link to="/time-to-mend-me/about">About</Link>
       </header>
       <Switch>
-        <Route exact path="/">
+        <Route exact path="/time-to-mend-me">
           <ResolutionBoard />
         </Route>
-        <Route exact path="/new-resolution">
+        <Route exact path="/time-to-mend-me/new-resolution">
           <CreateBoard />
         </Route>
-        <Route exact path="/about">
+        <Route exact path="/time-to-mend-me/about">
           <AboutPage />
         </Route>
       </Switch>
