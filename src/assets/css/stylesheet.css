@@ -27,7 +27,12 @@
 .app-header a {
   font-size: 2rem;
   text-decoration: none;
-  color: var(--color-grey);
+  color: var(--color-black);
+  transition: all 0.6s ease;
+}
+
+.app-header a:hover {
+  color: var(--color-red);
 }
 
 .app-main, .create-board {
