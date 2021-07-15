@@ -87,10 +87,6 @@
   cursor: pointer;
 }
 
-.resolution__remove button img {
-  transform: rotate(45deg);
-}
-
 .resolution__icon {
   width: 7rem;
   height: 7rem;

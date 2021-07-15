@@ -3,7 +3,7 @@ import { useDispatch } from 'react-redux'
 
 import { removeResolution } from '../features/resolutionSlice'
 
-import addIcon from '../assets/art/add.svg'
+import closeIcon from '../assets/art/close.svg'
 import boozeIcon from '../assets/art/booze-ico.svg'
 import burgirIcon from '../assets/art/burgir-ico.svg'
 import cigIcon from '../assets/art/cig-ico.svg'
@@ -103,7 +103,7 @@ const Resolution = ({ id, imageID, title, start }) => {
     <div className="resolution">
       <div className="resolution__remove">
         <button onClick={handleRemove}>
-          <img src={addIcon} alt="Remove resolution" />
+          <img src={closeIcon} alt="Remove resolution" />
         </button>
       </div>
       <div className="resolution__icon">
