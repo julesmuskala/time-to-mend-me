@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/time-to-mend-me/static/css/main.c99e13e1.chunk.css",
+    "main.css": "/time-to-mend-me/static/css/main.1a5ca79f.chunk.css",
     "main.js": "/time-to-mend-me/static/js/main.9bbf5a97.chunk.js",
     "main.js.map": "/time-to-mend-me/static/js/main.9bbf5a97.chunk.js.map",
     "runtime-main.js": "/time-to-mend-me/static/js/runtime-main.b99608fc.js",
@@ -10,7 +10,7 @@
     "static/js/2.2b13f4e0.chunk.js.map": "/time-to-mend-me/static/js/2.2b13f4e0.chunk.js.map",
     "index.html": "/time-to-mend-me/index.html",
     "static/css/2.bc922b9c.chunk.css.map": "/time-to-mend-me/static/css/2.bc922b9c.chunk.css.map",
-    "static/css/main.c99e13e1.chunk.css.map": "/time-to-mend-me/static/css/main.c99e13e1.chunk.css.map",
+    "static/css/main.1a5ca79f.chunk.css.map": "/time-to-mend-me/static/css/main.1a5ca79f.chunk.css.map",
     "static/js/2.2b13f4e0.chunk.js.LICENSE.txt": "/time-to-mend-me/static/js/2.2b13f4e0.chunk.js.LICENSE.txt",
     "static/media/add.1d779758.svg": "/time-to-mend-me/static/media/add.1d779758.svg",
     "static/media/booze-ico.4f5b74c4.svg": "/time-to-mend-me/static/media/booze-ico.4f5b74c4.svg",
@@ -32,7 +32,7 @@
     "static/js/runtime-main.b99608fc.js",
     "static/css/2.bc922b9c.chunk.css",
     "static/js/2.2b13f4e0.chunk.js",
-    "static/css/main.c99e13e1.chunk.css",
+    "static/css/main.1a5ca79f.chunk.css",
     "static/js/main.9bbf5a97.chunk.js"
   ]
 }
