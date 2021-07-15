@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/time-to-mend-me/static/css/main.00e7110f.chunk.css",
-    "main.js": "/time-to-mend-me/static/js/main.59bcea1d.chunk.js",
-    "main.js.map": "/time-to-mend-me/static/js/main.59bcea1d.chunk.js.map",
+    "main.css": "/time-to-mend-me/static/css/main.c99e13e1.chunk.css",
+    "main.js": "/time-to-mend-me/static/js/main.9bbf5a97.chunk.js",
+    "main.js.map": "/time-to-mend-me/static/js/main.9bbf5a97.chunk.js.map",
     "runtime-main.js": "/time-to-mend-me/static/js/runtime-main.b99608fc.js",
     "runtime-main.js.map": "/time-to-mend-me/static/js/runtime-main.b99608fc.js.map",
     "static/css/2.bc922b9c.chunk.css": "/time-to-mend-me/static/css/2.bc922b9c.chunk.css",
@@ -10,12 +10,13 @@
     "static/js/2.2b13f4e0.chunk.js.map": "/time-to-mend-me/static/js/2.2b13f4e0.chunk.js.map",
     "index.html": "/time-to-mend-me/index.html",
     "static/css/2.bc922b9c.chunk.css.map": "/time-to-mend-me/static/css/2.bc922b9c.chunk.css.map",
-    "static/css/main.00e7110f.chunk.css.map": "/time-to-mend-me/static/css/main.00e7110f.chunk.css.map",
+    "static/css/main.c99e13e1.chunk.css.map": "/time-to-mend-me/static/css/main.c99e13e1.chunk.css.map",
     "static/js/2.2b13f4e0.chunk.js.LICENSE.txt": "/time-to-mend-me/static/js/2.2b13f4e0.chunk.js.LICENSE.txt",
-    "static/media/add.d9fe85b1.svg": "/time-to-mend-me/static/media/add.d9fe85b1.svg",
+    "static/media/add.1d779758.svg": "/time-to-mend-me/static/media/add.1d779758.svg",
     "static/media/booze-ico.4f5b74c4.svg": "/time-to-mend-me/static/media/booze-ico.4f5b74c4.svg",
     "static/media/burgir-ico.054e9cee.svg": "/time-to-mend-me/static/media/burgir-ico.054e9cee.svg",
     "static/media/cig-ico.96759790.svg": "/time-to-mend-me/static/media/cig-ico.96759790.svg",
+    "static/media/close.6c956a29.svg": "/time-to-mend-me/static/media/close.6c956a29.svg",
     "static/media/coffee-ico.72a04769.svg": "/time-to-mend-me/static/media/coffee-ico.72a04769.svg",
     "static/media/dice-ico.6c15f4c3.svg": "/time-to-mend-me/static/media/dice-ico.6c15f4c3.svg",
     "static/media/leaf-ico.fc03f097.svg": "/time-to-mend-me/static/media/leaf-ico.fc03f097.svg",
@@ -31,7 +32,7 @@
     "static/js/runtime-main.b99608fc.js",
     "static/css/2.bc922b9c.chunk.css",
     "static/js/2.2b13f4e0.chunk.js",
-    "static/css/main.00e7110f.chunk.css",
-    "static/js/main.59bcea1d.chunk.js"
+    "static/css/main.c99e13e1.chunk.css",
+    "static/js/main.9bbf5a97.chunk.js"
   ]
 }
