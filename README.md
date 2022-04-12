@@ -2,4 +2,4 @@
 
 Simple app to track your progress
 
-[Check it out!](https://www.juliusz.muskala.eu/time-to-mend-me/)
+[Check it out!](https://julesmuskala.github.io/time-to-mend-me/)
